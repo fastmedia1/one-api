@@ -1,0 +1,9 @@
+{
+"version": 2,
+"routes": [
+{
+"src": "/(.*)",
+"dest": "https://one-api-demo.vercel.app/$1"
+}
+]
+}
